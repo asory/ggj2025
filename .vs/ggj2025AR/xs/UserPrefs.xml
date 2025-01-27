@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9C494A33-1D10-5C28-E25F-BC18C4C01729}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchDetector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TouchDetector.cs" Line="22" Column="12" />
+      <File FileName="Assets/MobileARTemplateAssets/Scripts/ARTemplateMenuManager.cs" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" />
+      <File FileName="Assets/Scripts/AudioTriger.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63bca5af-c711-4caf-bacf-4d338a83ffe3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
