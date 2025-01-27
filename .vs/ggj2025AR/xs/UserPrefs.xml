@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{9C494A33-1D10-5C28-E25F-BC18C4C01729}|">
+<Properties StartupConfiguration="{9C494A33-1D10-5C28-E25F-BC18C4C01729}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchDetector.cs">
     <Files>
       <File FileName="Assets/Scripts/TouchDetector.cs" Line="22" Column="12" />

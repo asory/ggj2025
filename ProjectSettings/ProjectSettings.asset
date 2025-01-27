@@ -398,6 +398,7 @@ PlayerSettings:
   - m_BuildTarget: Android
     m_Icons:
     - m_Textures:
+<<<<<<< HEAD
       - {fileID: 0}
       m_Width: 192
       m_Height: 192
@@ -472,34 +473,54 @@ PlayerSettings:
     - m_Textures:
       - {fileID: 2800000, guid: bcec853d881514fef9ce7f9022bcbb94, type: 3}
       - {fileID: 2800000, guid: 307eb4fdfc98f46159bfb27de784931b, type: 3}
+=======
+      - {fileID: 2800000, guid: a89e4c893bb81414e94aa3ec4595c10e, type: 3}
+      - {fileID: 2800000, guid: d6973ca02bae949eca48c54aa0e9a0a4, type: 3}
+>>>>>>> b8048306 (finish ggj2025)
       m_Width: 432
       m_Height: 432
       m_Kind: 2
       m_SubKind: 
+<<<<<<< HEAD
     - m_Textures:
       - {fileID: 2800000, guid: fcd1a39ee2a294a3c88cdd411c6e4e48, type: 3}
       - {fileID: 2800000, guid: 624c92f0b6cd64cfa99cb18527829c96, type: 3}
+=======
+    - m_Textures: []
+>>>>>>> b8048306 (finish ggj2025)
       m_Width: 324
       m_Height: 324
       m_Kind: 2
       m_SubKind: 
+<<<<<<< HEAD
     - m_Textures:
       - {fileID: 2800000, guid: c0a52d7ae955f4e36890284633af750f, type: 3}
       - {fileID: 2800000, guid: 4135baaff581e488aa5ffc6ef3dedf8b, type: 3}
+=======
+    - m_Textures: []
+>>>>>>> b8048306 (finish ggj2025)
       m_Width: 216
       m_Height: 216
       m_Kind: 2
       m_SubKind: 
+<<<<<<< HEAD
     - m_Textures:
       - {fileID: 2800000, guid: be377818dc739476daf6732a3b0898e4, type: 3}
       - {fileID: 2800000, guid: 629b03b4c72474bf48e0da9869d6c69f, type: 3}
+=======
+    - m_Textures: []
+>>>>>>> b8048306 (finish ggj2025)
       m_Width: 162
       m_Height: 162
       m_Kind: 2
       m_SubKind: 
+<<<<<<< HEAD
     - m_Textures:
       - {fileID: 2800000, guid: 5e88809a8f7b44891a404967822a4dde, type: 3}
       - {fileID: 2800000, guid: a091377ca481a48ebb604d15395f7e97, type: 3}
+=======
+    - m_Textures: []
+>>>>>>> b8048306 (finish ggj2025)
       m_Width: 108
       m_Height: 108
       m_Kind: 2
@@ -509,6 +530,75 @@ PlayerSettings:
       m_Height: 81
       m_Kind: 2
       m_SubKind: 
+<<<<<<< HEAD
+=======
+    - m_Textures:
+      - {fileID: 2800000, guid: c1a826592f28248bebba4eb2e39fbd44, type: 3}
+      m_Width: 192
+      m_Height: 192
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures:
+      - {fileID: 0}
+      m_Width: 144
+      m_Height: 144
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures:
+      - {fileID: 0}
+      m_Width: 96
+      m_Height: 96
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures:
+      - {fileID: 0}
+      m_Width: 72
+      m_Height: 72
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures:
+      - {fileID: 0}
+      m_Width: 48
+      m_Height: 48
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures:
+      - {fileID: 0}
+      m_Width: 36
+      m_Height: 36
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 192
+      m_Height: 192
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 144
+      m_Height: 144
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 96
+      m_Height: 96
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 72
+      m_Height: 72
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 48
+      m_Height: 48
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 36
+      m_Height: 36
+      m_Kind: 0
+      m_SubKind: 
+>>>>>>> b8048306 (finish ggj2025)
   - m_BuildTarget: tvOS
     m_Icons:
     - m_Textures: []
